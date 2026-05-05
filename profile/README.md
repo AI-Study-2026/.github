@@ -23,9 +23,7 @@
 | **Week 2** | Deep Learning Foundation | [Link] |
 
 ### 👥 Members
-| [정원](https://github.com/내아이디) | [멤버1](https://github.com/ID1) | [멤버2](https://github.com/ID2) | [멤버3](https://github.com/ID3) |
-| :---: | :---: | :---: | :---: |
-| <img src="https://github.com/내아이디.png" width="100"> | <img src="https://github.com/ID1.png" width="100"> | <img src="https://github.com/ID2.png" width="100"> | <img src="https://github.com/ID3.png" width="100"> |
+
 
 ---
 _Contact: your-email@example.com_
